@@ -1,9 +1,9 @@
 {
-  "name": "bbtony/vk-group-event-callback-api",
+  "name": "bbtony/vk-callback-api",
   "type": "library",
   "description": "This is the package for simple work with vk.com callback api which using in publics and groups",
   "keywords": ["vk", "callback", "api", "group", "event"],
-  "homepage": "https://github.com/bbtony/vk-group-event-callback-api",
+  "homepage": "https://github.com/bbtony/vk-callback-api",
   "license": "MIT",
   "authors": [
     {
